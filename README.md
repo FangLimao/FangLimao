@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Fang Limao(Nekomata).
+### About Me
+- 🔭Just a senior high school student
+- 💻Amateurish developer focusing on Minecraft Bedrock modding
+- 🎮Love playing games in spare time
+
+### 😄I’m currently working on
+- High school studies: extremely difficult!
+- [Hidden Years2](https://codeberg.org/TeamOccultus/HiddenYears2): an adventure add-on for Minecraft Bedrock (and a mod for Java Edition in the future)
+
+### 📫 How to reach me
+- Email: <FangLiulii@outlook.com>
 
 <!--
 **FangLimao/FangLimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
